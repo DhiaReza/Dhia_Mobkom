@@ -1,30 +1,16 @@
-# Coffee drinks app with Jetpack Compose
 
-The **Coffee Drinks** is an Android application created for playing with Jetpack Compose framework.
+# UAS Mobile Computing
 
-Light Color Palette
-<p align="center">
-  <img src="/screenshots/coffee-drinks-screen-light.png" height="400" />
-  <img src="/screenshots/coffee-drink-details-screen-light.png" height="400" />
-  <img src="/screenshots/order-coffee-drinks-screen-light.png" height="400" />
-</p>
+### Data Diri :
 
-Dark Color Palette
-<p align="center">
-  <img src="/screenshots/coffee-drinks-screen-dark.png" height="400" />
-  <img src="/screenshots/coffee-drink-details-screen-dark.png" height="400" />
-  <img src="/screenshots/order-coffee-drinks-screen-dark.png" height="400" />
-</p>
+Nama : Fahreza Dhia
 
-## Articles 
-* [Jetpack Compose: Overview](https://alexzh.com/jetpack-compose-overview/)
-* [Jetpack Compose: State](https://alexzh.com/jetpack-compose-state/)
-* [Jetpack Compose: Theme and Typography](https://alexzh.com/jetpack-compose-theme-and-typography/)
+NIM : 1313621021
 
-## Features
-* Demonstrating list of coffee drinks
-* User can mark/unmark coffee drink as favourite
-* User can read information about each coffee drink
-* User can change the design of the card in a list
-* User can calculate the total price of order
-* Support light and dark color theme
+### Penjelasan :
+
+Pembuatan aplikasi ini didasari oleh kebutuhan keluarga dimana orang tua memerlukan suatu aplikasi yang berfungsi untuk menampilkan menu - menu ke pelanggan dan aplikasi kasir. Maka dibuatlah aplikasi kasir yang dapat dikembangkan lebih lanjut untuk memenuhi kebutuhan ke arah pelanggan dan kasir.
+
+Aplikasi yang dibuat masih belum sempurna. Hanya memadukan kebutuhan dari pelanggan dan kasir. Maka dipilihkan 2 fitur urama, yaitu menampilkan menu dan total harga dari menu yang dipesan.
+
+Untuk saat ini, daftar menu masih bersifat hardcode, user tidak bisa menambah, mengurangi atau mengedit menu karena aplikasi ini dibuat untuk mengakomodasi kebutuhan 2 pengguna, yaitu penjual dan pembeli.
