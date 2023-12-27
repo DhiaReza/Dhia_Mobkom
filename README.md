@@ -2,6 +2,6 @@
 
 nama folder uas : kasir
 
-letak .APK : kasir -> releases
+letak .APK : releases
 
 
