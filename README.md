@@ -2,8 +2,7 @@
 # UAS Mobile Computing
 
 ### Data Diri :
-Nama : Fahreza Dhia
-NIM : 1313621021
+Nama : Fahreza Dhia | NIM : 1313621021
 
 ### Penjelasan :
 Pembuatan aplikasi ini didasari oleh kebutuhan keluarga dimana orang tua memerlukan suatu aplikasi yang berfungsi untuk menampilkan menu - menu ke pelanggan dan aplikasi kasir. Maka dibuatlah aplikasi kasir yang dapat dikembangkan lebih lanjut untuk memenuhi kebutuhan ke arah pelanggan dan kasir.
@@ -22,7 +21,6 @@ Fitur - Fitur yang tersedia :
 https://youtu.be/Mx1ZlbXAr70
 
 ### Navigasi Folder UAS
-nama folder uas : kasir
-letak .APK : releases
+nama folder uas (source) : kasir | letak .APK : releases
 
 
